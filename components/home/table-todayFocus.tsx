@@ -92,17 +92,17 @@ export default function TodayFocus() {
         {
             title: "Due for review",
             items: [
-                { name: "Hearing Loss", percentage: "29%" },
-                { name: "medical education", percentage: "38%" },
-                { name: "Diagnosis of Hearing Disorders", percentage: "42%" }
+                { name: "Hearing Loss", percentage: "65%" },
+                { name: "medical education", percentage: "72%" },
+                { name: "Diagnosis of Hearing Disorders", percentage: "58%" }
             ]
         },
         {
             title: "Recently Mastered",
             items: [
-                { name: "Management", percentage: "31%" },
-                { name: "Acute Kidney Injury Staging", percentage: "22%" },
-                { name: "Pediatric Murmurs", percentage: "26%" }
+                { name: "Management", percentage: "92%" },
+                { name: "Acute Kidney Injury Staging", percentage: "87%" },
+                { name: "Pediatric Murmurs", percentage: "95%" }
             ]
         }
     ]);
