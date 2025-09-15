@@ -1,0 +1,22 @@
+<svg width="130" height="109" viewBox="0 0 130 109" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* Light mode - default */
+    .folder-main { fill: #36AF8D; }
+    .folder-details { fill: white; stroke: #36AF8D; }
+
+    /* Dark mode */
+    @media (prefers-color-scheme: dark) {
+      .folder-main { fill: #36AF8D; }
+      .folder-details { fill: #0f1012; stroke: #36AF8D; }
+    }
+  </style>
+<path class="folder-main" d="M6.88506 108.762H125.377C127.676 108.762 129.766 106.881 129.766 104.373V16.8102C129.766 14.5115 127.885 12.4217 125.377 12.4217H65.3996C63.7278 12.4217 62.2649 11.5857 61.638 10.1229L58.0853 3.01754C57.2494 1.55467 55.7865 0.71875 54.3236 0.71875H5.21321C2.91443 0.71875 0.824615 2.59957 0.824615 5.10734V102.492C0.615631 105.836 3.33239 108.762 6.88506 108.762Z" fill="#36AF8D"/>
+<circle class="folder-details" cx="52.0909" cy="72.5206" r="3.58309" fill="#0F1012"/>
+<circle class="folder-details" cx="77.8866" cy="38.5975" r="3.10535" fill="#0F1012"/>
+<rect class="folder-details" x="94.4531" y="46.4766" width="4.77746" height="21.0208" rx="2.38873" transform="rotate(45.1206 94.4531 46.4766)" fill="#0F1012"/>
+<rect class="folder-details" width="4.77746" height="21.0208" rx="2.38873" transform="matrix(-0.705617 0.708593 0.708593 0.705617 44.7031 46)" fill="#0F1012"/>
+<rect class="folder-details" x="89.4062" y="39.7969" width="4.77746" height="26.4476" rx="2.38873" transform="rotate(45.1206 89.4062 39.7969)" fill="#0F1012"/>
+<rect class="folder-details" x="71.6406" y="56.0391" width="4.77746" height="31.0535" rx="2.38873" fill="#0F1012"/>
+<rect class="folder-details" width="4.77746" height="26.4476" rx="2.38873" transform="matrix(-0.705617 0.708593 0.708593 0.705617 50.4453 39.7969)" fill="#0F1012"/>
+<rect class="folder-details" width="4.77746" height="31.0535" rx="2.38873" transform="matrix(-1 0 0 1 68.2031 56.0391)" fill="#0F1012"/>
+</svg>
